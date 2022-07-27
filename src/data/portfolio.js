@@ -54,7 +54,7 @@ const experience = {
   experiences: [
     {
       title: "Assistant System Engineer (ASE)",
-      company: "Tata Consulatncy Services",
+      company: "Tata Consultancy Services",
       duration: "Jun 2021 - July 2022",
       description:
         "I've worked as an Assistant System Engineer with the core responsibilty as suppodrting the project with networks and server aspects ",
