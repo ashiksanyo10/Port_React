@@ -1,7 +1,7 @@
 const about = {
   title: "Heyy 👋 , I am Ashik Sanyo.",
   description:
-    "I'm a Tech enthusiast living in Bangalore, India. I love to solve and build things. Also an Ex-TCSer and presently a Post grad DataScience student at Christ University!",
+    "I'm a Tech enthusiast living in Bangalore, India. I love to solve problems and build things. Also an Ex-TCSer and presently a Post grad DataScience student at Christ University!",
   github: "https://github.com/ashiksanyo10",
   linkedin: "https://www.linkedin.com/in/ashiksanyo/",
   cv: "#",
@@ -43,7 +43,7 @@ const projects = {
         "C#",
       ],
       github: "https://github.com/ashiksanyo10/EMPX",
-
+      demo: "https://github.com/ashiksanyo10/EMPX",
 
     },
   ],
@@ -57,7 +57,7 @@ const experience = {
       company: "Tata Consultancy Services",
       duration: "Jun 2021 - July 2022",
       description:
-        "I've worked as an Assistant System Engineer with the core responsibilty as suppodrting the project with networks and server aspects ",
+        "I've worked as an Assistant System Engineer with the core responsibilty as supporting Client project with networks and server aspects ",
     },
   ],
 };
