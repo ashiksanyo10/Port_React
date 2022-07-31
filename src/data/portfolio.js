@@ -57,7 +57,7 @@ const experience = {
       company: "Tata Consultancy Services",
       duration: "Jun 2021 - July 2022",
       description:
-        "I've worked as an Assistant System Engineer with the core responsibilty as supporting Client project with networks and server aspects ",
+        "I've worked as an Assistant System Engineer with the core responsibilty as supporting Client project with networks and server aspects. ",
     },
   ],
 };
