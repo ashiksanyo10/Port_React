@@ -11,14 +11,14 @@ const projects = {
   title: "Projects",
   personalProjects: [
     {
-      title: "ISRO Clone",
+      title: "2022 Ukraine Russia War Exploratory Data Analysis ",
       short:
-        "ISRO Landing page clone.",
+        "2022 Ukraine Russia War Exploratory Data Analysis.",
       description:
-        "It is a dynamic landing page with space theme compared to the Original page which enchances user experience and easy access thorughout while using.",
+        "2022 Ukraine Russia War Exploratory Data Analysis Equipment losses & Death Toll & Military Wounded & Prisoner of War of RussiansAnalysis was done on the day 167 of the war ",
       technologies: ["HTML,", "CSS,", "JavaScript."],
-      github: "https://github.com/ashiksanyo10/isro-redesign",
-      demo: "https://irsoredesignbyashik.netlify.app/#",
+      github: "https://github.com/ashiksanyo10/Russia-Ukraine_War_EDA",
+      demo: "https://www.kaggle.com/code/ashiksanyo/russia-ukraine-war-eda",
     },
     {
       title: "Heart Attack Prediction",
