@@ -11,7 +11,7 @@ const projects = {
   title: "Projects",
   personalProjects: [
     {
-      title: "2022 Ukraine Russia War Exploratory Data Analysis ",
+      title: "Ukraine Russia War Data Analysis ",
       short:
         "2022 Ukraine Russia War Exploratory Data Analysis.",
       description:
