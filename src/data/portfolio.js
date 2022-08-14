@@ -1,5 +1,5 @@
 const about = {
-  title: "Heyy 👋 , I am Prakyath Sanyo.",
+  title: "Heyy 👋 , I am Ashik Sanyo.",
   description:
     "I'm a Tech enthusiast living in Bangalore, India. I love to solve problems and build things. Also an Ex-TCSer and presently a Post grad Data Science student at Christ University!",
   github: "https://github.com/ashiksanyo10",
