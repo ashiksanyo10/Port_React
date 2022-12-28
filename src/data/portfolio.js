@@ -80,11 +80,11 @@ const skills = {
     },
     {
       title: "Tools & IDE",
-      skills: ["Spyder,","Juypter NoteBook,","VS Code, PowerBi"],
+      skills: ["Spyder,","Juypter NoteBook,","VS Code, PowerBi,","Talend Studio",],
     },
     {
       title: "Others",
-      skills: ["Adobe Creative Suit,", "Blender,", "SparkAR,","Talend Studio"],
+      skills: ["Adobe Creative Suit,", "Blender,", "SparkAR,",],
     },
   ],
 };
