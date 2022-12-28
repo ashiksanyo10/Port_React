@@ -84,7 +84,7 @@ const skills = {
     },
     {
       title: "Others",
-      skills: ["Adobe Creative Suit,", "Blender,", "SparkAR","Talend Studio"],
+      skills: ["Adobe Creative Suit,", "Blender,", "SparkAR,","Talend Studio"],
     },
   ],
 };
