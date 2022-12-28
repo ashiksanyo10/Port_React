@@ -15,7 +15,7 @@ const projects = {
       short:
         "2022 Ukraine Russia War Exploratory Data Analysis.",
       description:
-        "2022 Ukraine Russia War Exploratory Data Analysis Equipment, Analysis was done on the day 167 of the war ",
+        "2022 Ukraine Russia War Exploratory Data Analysis, Analysis was done on the day 167 of the war ",
       technologies: ["Python"],
       github: "https://github.com/ashiksanyo10/Russia-Ukraine_War_EDA",
       demo: "https://www.kaggle.com/code/ashiksanyo/russia-ukraine-war-eda",
