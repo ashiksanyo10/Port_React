@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <p>
-       ✔️ I'm not a robot!
+       ✔️ I'm not a robot
       ,
 
       And this is my Twitter handle
