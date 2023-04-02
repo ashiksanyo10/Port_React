@@ -16,10 +16,6 @@ const Footer = () => {
         <a href="https://twitter.com/ScienceMemes6/status/1362504877889454081?s=20&t=lIiaaUethpTNNdQVtYe60Q" target="blank"> <u>tweet</u></a> 
       
       ,
-        My spotify
-        <a href = "https://open.spotify.com/playlist/45820Uh0G1xMnYwpt2kYfG?si=a6417cb95218475a" target="blank"> <u>playlist.</u></a> 
-
-      <br></br>
 
       And this is my instagram handle
       <a href="https://www.instagram.com/ashiksanyo/" target="blank"> <u>@ashiksanyo!</u></a>
