@@ -7,8 +7,8 @@ const Footer = () => {
        ✔️ I'm not a robot!
       ,
 
-      And this is my instagram handle
-      <a href="https://www.instagram.com/ashiksanyo/" target="blank"> <u>@ashiksanyo!</u></a>
+      And this is my Twitter handle
+      <a href="https://twitter.com/AshikSanyo" target="blank"> <u>@AshikSanyo!</u></a>
         
       </p>
     </footer>
