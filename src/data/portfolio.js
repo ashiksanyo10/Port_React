@@ -21,14 +21,14 @@ const projects = {
       demo: "https://www.kaggle.com/code/ashiksanyo/russia-ukraine-war-eda",
     },
     {
-      title: "Heart Attack Prediction",
+      title: "Drone Detection - YOLOv8",
       short:
-        "Exploratory Data Analysis and prediction of heart attack over patient dataset",
+        "Using YOLOv8 to Unmanned aerial vehicle",
       description:
-        "Machine learning  Regression model with Exploratory Data Analysis with visualization and prediction of heart attack over patient dataset.",
+        "An image Classification model using YOLO, which is trained on custom dataset",
       technologies: ["Python"],
-      github: "https://github.com/ashiksanyo10/Heart_Attacc.git",
-      demo: "https://www.kaggle.com/code/ashiksanyo/heart-attacc",
+      github: "https://github.com/ashiksanyo10/DroneXYOLOv8.git",
+      demo: "https://github.com/ashiksanyo10/DroneXYOLOv8/blob/main/README.md",
     },
     {
       title: "Employee Monitoring System",
