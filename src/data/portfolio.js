@@ -31,19 +31,17 @@ const projects = {
       demo: "https://github.com/ashiksanyo10/DroneXYOLOv8/blob/main/README.md",
     },
     {
-      title: "Employee Monitoring System",
+      title: "PowerBI Dashboards",
       short:
-        "Features Employee monitoring during the work from home phase.",
+        "Portfolio containing dashboards and articles of several data-sets and scenarios.",
       description:
-        "It is a DashBoard embedded OpenCV project which allows to gauge the workdone and the productivity rate of an employee during WFH.",
+        "Developed a Business Intelligence portfolio with real-case reports showcasing data analysis expertise.",
       technologies: [
-        "OpenCV,",
-        "WMI,",
-        "Python,",
-        "C#",
+        "PowerBI,",
+        "MS Excel,",
       ],
-      github: "https://github.com/ashiksanyo10/EMPX",
-      demo: "https://github.com/ashiksanyo10/EMPX",
+      github: "https://www.novypro.com/profile_projects/ashiksanyo",
+      demo: "https://www.novypro.com/project/us-sales-dash",
 
     },
   ],
@@ -53,7 +51,7 @@ const experience = {
   title: "Experience",
   experiences: [
     {
-      title: "Assistant System Engineer (ASE)",
+      title: "System Engineer (SE)",
       company: "Tata Consultancy Services",
       duration: "Jun 2021 - July 2022",
       description:
@@ -80,7 +78,7 @@ const skills = {
     },
     {
       title: "Tools & IDE",
-      skills: ["Spyder,","Juypter NoteBook,","VS Code, PowerBi,","Talend Studio",],
+      skills: ["Anaconda Navigator,","Visual Studio Code,", "PowerBi,","Talend Studio",],
     },
     {
       title: "Others",
