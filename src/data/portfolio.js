@@ -4,7 +4,7 @@ const about = {
     "I'm a Tech enthusiast living in Bangalore, India. I love to solve problems and build things. Also an Ex-TCSer and presently a Post grad Data Science student at Christ University!",
   github: "https://github.com/ashiksanyo10",
   linkedin: "https://www.linkedin.com/in/ashiksanyo/",
-  cv: "https://drive.google.com/file/d/15DRnoLvreh6kupolRYTHmloPcZFv61zT/view?usp=sharing",
+  cv: "https://drive.google.com/file/d/1fiYlv7Ou0tKWSdUlQwpc5Ye3hDEya3kK/view?usp=sharing",
 };
 
 const projects = {
