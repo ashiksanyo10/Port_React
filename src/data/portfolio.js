@@ -15,13 +15,13 @@ const projects = {
       short:
         "YOLO V5 model to detect the Dental disorder",
       description:
-        "This project aims to detect dental diseases in dental radiographic images using YOLOv5 object detection framework. The detection model is built on the YOLOv5 architecture, which is a state-of-the-art object detection algorithm. It has been trained on a custom dataset consisting of annotated dental radiographic images.",
+        "The detection model is built on the YOLOv5 architecture, which is a state-of-the-art object detection algorithm. It has been trained on a custom dataset consisting of annotated dental radiographic images.",
       technologies: ["Python","Computer vision"],
       github: "hhttps://github.com/ashiksanyo10/DentalDetect",
       demo: "https://github.com/ashiksanyo10/DentalDetect",
     },
     {
-      title: "Performance analysis of YOLO v7 & v8 model for drone detection",
+      title: "Performance analysis of YOLOv7 & YOLOv8 model for drone detection",
       short:
         "Using YOLOv8 to Unmanned aerial vehicle",
       description:
