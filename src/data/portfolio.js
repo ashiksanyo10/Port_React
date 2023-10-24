@@ -11,37 +11,37 @@ const projects = {
   title: "Projects",
   personalProjects: [
     {
-      title: "Ukraine Russia War Data Analysis ",
+      title: "Dental Disease detection using Computer Vision",
       short:
-        "2022 Ukraine Russia War Exploratory Data Analysis.",
+        "YOLO V5 model to detect the Dental disorder",
       description:
-        "2022 Ukraine Russia War Exploratory Data Analysis, Analysis was done on the day 167 of the war ",
-      technologies: ["Python"],
-      github: "https://github.com/ashiksanyo10/Russia-Ukraine_War_EDA",
-      demo: "https://www.kaggle.com/code/ashiksanyo/russia-ukraine-war-eda",
+        "This project aims to detect dental diseases in dental radiographic images using YOLOv5 object detection framework. The detection model is built on the YOLOv5 architecture, which is a state-of-the-art object detection algorithm. It has been trained on a custom dataset consisting of annotated dental radiographic images.",
+      technologies: ["Python","Computer vision"],
+      github: "hhttps://github.com/ashiksanyo10/DentalDetect",
+      demo: "https://github.com/ashiksanyo10/DentalDetect",
     },
     {
-      title: "Drone Detection - YOLOv8",
+      title: "Performance analysis of YOLO v7 & v8 model for drone detection",
       short:
         "Using YOLOv8 to Unmanned aerial vehicle",
       description:
-        "An image Classification model using YOLO, which is trained on custom dataset",
-      technologies: ["Python"],
-      github: "https://github.com/ashiksanyo10/DroneXYOLOv8.git",
-      demo: "https://github.com/ashiksanyo10/DroneXYOLOv8/blob/main/README.md",
+        "This research delves into a comprehensive performance analysis aimed at comparing the efficiency and accuracy of YOLOv7 and YOLOv8 for drone image detection applications. ",
+      technologies: ["Python","Deep Learning"],
+      github: "https://github.com/ashiksanyo10/Performance-Analysis-of-YOLOv7-and-YOLOv8-for-Drone-Image-Detection-",
+      demo: "https://ieeexplore.ieee.org/document/10276343",
     },
     {
-      title: "PowerBI Dashboards",
+      title: "Predictive Analytics for P2P Loan Defaults",
       short:
-        "Portfolio containing dashboards and articles of several data-sets and scenarios.",
+        " A robust machine learning model that assists in assessing the creditworthiness of borrowers, ultimately reducing the risk of defaults. ",
       description:
-        "Developed a Business Intelligence portfolio with real-case reports showcasing data analysis expertise.",
+        "This predictive model empowers P2P platforms with informed lending choices, reducing risk, financial losses, and bolstering trust among stakeholders.",
       technologies: [
-        "PowerBI,",
+        "Machine Learning,",
         "MS Excel,",
       ],
-      github: "https://www.novypro.com/profile_projects/ashiksanyo",
-      demo: "https://www.novypro.com/project/us-sales-dash",
+      github: "https://github.com/ashiksanyo10/Loans-Predictor",
+      demo: "https://github.com/ashiksanyo10/Loans-Predictor",
 
     },
   ],
