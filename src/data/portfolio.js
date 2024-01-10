@@ -55,21 +55,16 @@ const experience = {
       company: "AppSnyergies",
       duration: "Nov 2023 - Present",
       description:
-        "Contributing to end-to-end machine learning lifecycle: from model development and API integration to rigorous testing,deployment, and meticulous quality control. ",
+        "Contributing to end-to-end machine learning lifecycle: from model development and API integration to rigorous testing, deployment, and meticulous quality control. ",
     },
-  ],
-};
-
-const experience = {
-  title: "Experience",
-  experiences: [
     {
       title: "System Engineer (SE)",
       company: "Tata Consultancy Services",
       duration: "Jun 2021 - July 2022",
       description:
-        "I've worked as an Assistant System Engineer with the core responsibilty as supporting Client project with networks and server aspects. ",
+        "Worked as an Assistant System Engineer with the core responsibility of supporting client projects with networks and server aspects.",
     },
+    // Add any additional experiences here
   ],
 };
 
