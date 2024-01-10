@@ -51,6 +51,19 @@ const experience = {
   title: "Experience",
   experiences: [
     {
+      title: "Data Scientist-Intern",
+      company: "AppSnyergies",
+      duration: "Nov 2023 - Present",
+      description:
+        "Contributing to end-to-end machine learning lifecycle: from model development and API integration to rigorous testing,deployment, and meticulous quality control. ",
+    },
+  ],
+};
+
+const experience = {
+  title: "Experience",
+  experiences: [
+    {
       title: "System Engineer (SE)",
       company: "Tata Consultancy Services",
       duration: "Jun 2021 - July 2022",
