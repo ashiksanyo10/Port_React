@@ -52,7 +52,7 @@ const experience = {
   experiences: [
     {
       title: "Data Scientist-Intern",
-      company: "AppSnyergies",
+      company: "AppSynergies",
       duration: "Nov 2023 - Present",
       description:
         "Contributing to end-to-end machine learning lifecycle: from model development and API integration to rigorous testing, deployment, and meticulous quality control. ",
