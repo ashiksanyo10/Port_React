@@ -64,6 +64,13 @@ const experience = {
       description:
         "Worked as an Assistant System Engineer with the core responsibility of supporting client projects with networks and server aspects.",
     },
+    {
+      title: "Sr. Associate - Risk & Operations",
+      company: "Amazon",
+      duration: "Mar 2024 - Present",
+      description:
+        "Currently working as a Sr. Associate in Risk & Operations, contributing to ensuring operational efficiency and mitigating risks within the organization.",
+    },
     // Add any additional experiences here
   ],
 };
