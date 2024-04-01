@@ -51,9 +51,16 @@ const experience = {
   title: "Experience",
   experiences: [
     {
+      title: "Sr. Associate - Risk & Operations",
+      company: "Amazon",
+      duration: "Mar 2024 - Present",
+      description:
+        "Currently working as a Sr. Associate in Risk & Operations, contributing to ensuring operational efficiency and mitigating risks within the organization.",
+    },
+    {
       title: "Data Scientist-Intern",
       company: "AppSynergies",
-      duration: "Nov 2023 - Present",
+      duration: "Nov 2023 - Mar 2024",
       description:
         "Contributing to end-to-end machine learning lifecycle: from model development and API integration to rigorous testing, deployment, and meticulous quality control. ",
     },
@@ -63,14 +70,7 @@ const experience = {
       duration: "Jun 2021 - July 2022",
       description:
         "Worked as an Assistant System Engineer with the core responsibility of supporting client projects with networks and server aspects.",
-    },
-    {
-      title: "Sr. Associate - Risk & Operations",
-      company: "Amazon",
-      duration: "Mar 2024 - Present",
-      description:
-        "Currently working as a Sr. Associate in Risk & Operations, contributing to ensuring operational efficiency and mitigating risks within the organization.",
-    },
+    }
     // Add any additional experiences here
   ],
 };
